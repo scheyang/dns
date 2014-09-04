@@ -1,0 +1,4 @@
+hw.com.     172800  IN  NS  www.hw.com.
+hwachip.com.     172800  IN  NS  www.hwachip.com.
+www.hw.com.     172800  IN  A  192.168.103.1
+www.hwachip.com.     172800  IN  A  192.168.103.1

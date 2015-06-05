@@ -1,2 +1,2 @@
 # dns
-This is a dns program
+This is a dns program OpenSource
